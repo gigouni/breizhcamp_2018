@@ -1,6 +1,7 @@
 # From a french monolith to a worlwide platform : a human story
 
 Speaker: Stan Chollet
+
 Dailymotion - Formateur Kubernetes et GraphQL
 
 ## Tranformation de la plateforme après un rachat de Dailymotion
@@ -41,6 +42,7 @@ Passage en tribes et squads #spotify
 - Problèmes détectés d'inconsistance entre les intégrations pour finalement revenir à la façon d'intégration précédente (scripts bash)
 - Morale : ne pas forcément choisir les outils des GAFAM quand notre solution fonctionne déjà
 - Utilisation de Helm (surcouche Kubernetes pour simplifier les configurations)
+- Utilisation d'un cache sous le GraphQL (on peut en avoir un mais c'est nouveau avec Apollo Cache Control)
 
 From
 
