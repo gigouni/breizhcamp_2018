@@ -35,7 +35,7 @@ Speaker: David Gageot, developer advocate Google
 
 - Istio est un ensemble de containers qui viennent se mettre par dessus les conteneurs de Kubernetes pour ajouter des fonctionnalités
 - On  crée deux copies des deux fichiers pour gérer une version en staging pour faire les tests de validation
-- On veut faire du load balancing sur les duex versions pour faire de l'A/B Testing mais Kubernetes ne permet pas de le faire (très complexe)
+- On veut faire du load balancing sur les deux versions pour faire de l'A/B Testing mais Kubernetes ne permet pas de le faire (très complexe)
 - RouteRule un gestionnaire intelligent de routes très utile
 - On modifie un fichier de configuration de Kubernetes avec `kubectl edit -f filename`. Ça ouvre un éditeur et à la sauvegarde de ce dernier, Kubernetes se recharge et permet de prendre en compte automatiquement les différences
 - On ajoute un service Graphana sur le cluster pour faire du monitoring en temps réel grâce à Promoetheus qui renvoit les métriques
