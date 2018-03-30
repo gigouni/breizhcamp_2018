@@ -1,10 +1,19 @@
-# From a french monolith to a worlwide platform : a human story
+# 1. From a french monolith to a worldwide platform : a human story
 
 Speaker: Stan Chollet
 
 Dailymotion - Formateur Kubernetes et GraphQL
 
-## Tranformation de la plateforme après un rachat de Dailymotion
+<!-- TOC -->
+
+- [1. From a french monolith to a worldwide platform : a human story](#1-from-a-french-monolith-to-a-worldwide-platform -a-human-story)
+    - [1.1. Transformation de la plateforme après un rachat de Dailymotion](#11-transformation-de-la-plateforme-après-un-rachat-de-dailymotion)
+    - [1.2. Changement d'organisation de travail](#12-changement-dorganisation-de-travail)
+    - [1.3. Technique](#13-technique)
+
+<!-- /TOC -->
+
+## 1.1. Transformation de la plateforme après un rachat de Dailymotion
 
 From
 
@@ -23,11 +32,11 @@ To (SOA architecture)
 - GraphQL API
 - fully API Centric
 
-## Changement d'organisation de travail
+## 1.2. Changement d'organisation de travail
 
 Passage en tribes et squads #spotify
 
-## Technique
+## 1.3. Technique
 
 - Le GraphQL tape sur les services pour les entités et nourrit le website
 - Kubernetes on AWS (2016
