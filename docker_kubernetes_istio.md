@@ -2,6 +2,8 @@
 
 Speaker: David Gageot, developer advocate Google
 
+[Lien vers un comic fait sur le sujet](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)
+
 <!-- TOC -->
 
 - [1. Transformer une application legacy avec Kubernetes et Istio](#1-transformer-une-application-legacy-avec-kubernetes-et-istio)
