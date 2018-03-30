@@ -4,9 +4,9 @@ Laurent Grangeau (@laurentgrangeau), Cloud solution architect, SOGETI
 
 ## Définitions
 
-"Serverless computing is a cloud computing execution model in which the cloud provider dynamically maanges the allocation of machine resources"
+> "Serverless computing is a cloud computing execution model in which the cloud provider dynamically manages the allocation of machine resources"
 
-## Why?
+## Why
 
 - Reduce Time-to-Market
 - Easier deployment

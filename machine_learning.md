@@ -2,7 +2,7 @@
 
 "Tout ce que vous avez toujours voulu savoir sur le machine learning"
 
-Conférence par Cérès Carton, data scienttist chez Energiency
+Conférence par Cérès Carton, data scientist chez Energiency
 
 <!-- TOC -->
 
@@ -42,8 +42,8 @@ Conférence par Cérès Carton, data scienttist chez Energiency
 
 ## 1.3. Types de résultats
 
-- *Underfitting* : les résultats sont majoritairement faux
-- *Overfitting* : le bon élève, celui qui a bien appris son cours mais par coeur. Donc quand on lui présente quelque chose qu'il ne connaît pas, il rate
+- **Underfitting** : les résultats sont majoritairement faux
+- **Overfitting** : le bon élève, celui qui a bien appris son cours mais par coeur. Donc quand on lui présente quelque chose qu'il ne connaît pas, il rate
 - *Juste ce qu'il faut* : un élève qui réussit globalement autant ce qu'il connaît que ce qu'il ne connaît pas encore
 
 ## 1.4. Corrélation VS causalité
