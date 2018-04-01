@@ -16,25 +16,25 @@ Dailymotion - Formateur Kubernetes et GraphQL
 
 ## 1.1. Transformation de la plateforme après un rachat de Dailymotion
 
-Passage de
+**Passage de**
 
 - Stack LAMP monolithique
-- Hébergé en "bare-metal" (directement sur un serveur sans virtualisation)
+- Hébergée en "bare-metal" (directement sur un serveur sans virtualisation)
 - Un seul datacenter
 - Une API REST
 
-Vers une architecture
+**Vers une architecture**
 
-- micro-services
-- géo-distribuée
-- orchestrée au dessus de Kubernetes
-- en plusieurs langages (Python, Go, ...)
+- Micro-services
+- Géo-distribuée
+- Orchestrée au dessus de Kubernetes
+- En plusieurs langages (Python, Go, ...)
 - Une API GraphQL
 - API-centrique
 
 ## 1.2. Changement d'organisation de travail
 
-Passage en tribes et squads #spotify. Plus d'informations sur ce mode de fonctionnement sur le site [full-stackagile.com](http://www.full-stackagile.com/2016/02/14/team-organisation-squads-chapters-tribes-and-guilds/)
+Fonctionnement en tribes et squads #spotify. Plus d'informations sur ce mode de fonctionnement sur le site [full-stackagile.com](http://www.full-stackagile.com/2016/02/14/team-organisation-squads-chapters-tribes-and-guilds/)
 
 ## 1.3. Timeline
 
@@ -53,18 +53,18 @@ Passage en tribes et squads #spotify. Plus d'informations sur ce mode de fonctio
 - Utilisation de Helm (surcouche Kubernetes pour simplifier les configurations)
 - Utilisation d'un cache sous le GraphQL (on peut en avoir un mais c'est nouveau avec Apollo Cache Control)
 
-Après cela, passage de 
+**Après cela, passage de**
 
 - Le build fait par les ingénieurs logiciels
-    - Écrit le code
-    - Développe les applications complexes
+  - Écrit le code
+  - Développe les applications complexes
 - Livraison par les ingénieurs d'intégration
-    - Packager et déployer les applications
+  - Packager et déployer les applications
 - Mise en route par les ingénieurs systèmes
-    - Mise en place de l'infrastructure et de l'application
-    - Incapables de corriger les applications par eux-mêmes
+  - Mise en place de l'infrastructure et de l'application
+  - Incapables de corriger les applications par eux-mêmes
 
-vers 
+**vers**
 
 - Le build, la livraison et la mise en route par les ingénieurs de production
 
