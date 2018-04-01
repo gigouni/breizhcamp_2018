@@ -8,7 +8,7 @@ Liste de documents
 - ["Les erreurs à ne pas faire avec Jenkins" par Adrien et Damien de CloudBees](./erreurs_jenkins.md)
 - ["Transformer une application legacy avec Kubernetes et Istio" par David Gageot](./docker_kubernetes_istio.md)
 - ["Internet reloaded"](./internet_reloaded.md)
-- ["RealTime GraphQL" ar Benjamin Plouzennec et Mahdi Aici](./realtime_graphql.md)
+- ["RealTime GraphQL" par Benjamin Plouzennec et Mahdi Aici](./realtime_graphql.md)
 
 Certaines fautes de frappe/orthographe sont présentes dans les documents. Ils ont été rédigés directement lors des conférences et n'ont pas tous été corrigés ou traduits en français (homogénéisation de la langue de lecture des documents). Si vous voyez des fautes, n'hésitez pas à faire une PR, je les ajouterai avec plaisir. ;)
 
