@@ -18,9 +18,9 @@ Adrien et Damien, CloudBees
 - Les agents Jenkins sont des machines utilisées par Jenkins pour déléguer le travail. Utile si le build corrompt la machine
 - Nombre d'exécuteurs (workers) == nombre de coeurs CPU
 - Nouvelles façons de consommer Jenkins
-  - [Jenkins X (tout public)](https://goog.gl/rbZBNd) --> Kubernetes
-  - [Jenkins Essentials](https://goog.gl/o6A7mr) --> Version minimale de Jenkins, avec une configuration minimale et une gestion primitive
-  - [Configuration-as-code](https://goog.gl/5Bz29F)
+  - [Jenkins X (tout public)](https://goo.gl/rbZBNd) --> Kubernetes
+  - [Jenkins Essentials](https://goo.gl/o6A7mr) --> Version minimale de Jenkins, avec une configuration minimale et une gestion primitive
+  - [Configuration-as-code](https://goo.gl/5Bz29F)
 - Jenkins est un produit open source
   - La communauté est importante, il faut l'entretenir en l'aidant
   - Voter pour la LTS
